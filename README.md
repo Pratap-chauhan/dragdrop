@@ -1,3 +1,12 @@
+# Run Code Locally
+
+npm install // install all the node modules
+
+ng serve
+
+Note:- Please check the package.json file for module compatibilty. 
+
+
 # Dragdrop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
