@@ -15,9 +15,7 @@ export class WidthComponent implements OnInit {
 
   ngOnInit() {}
   onNoClick(): void {
-    this.dialogRef.close({
-      food: this.food
-    });
+    this.dialogRef.close();
   }
 
 }
